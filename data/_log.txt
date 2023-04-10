@@ -1,0 +1,407 @@
+Troop 1 ("Dois Macporra")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 2 ("Bat sinal")
+  Page 1
+      {"code":312,"indent":0,"parameters":[0,0,0,0,20]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 3 ("Besouro*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 4 ("Aranha*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 5 ("Rato*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 6 ("Fogo-Fátuo*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 7 ("Cascavel do paraná*2")
+  Page 1
+      {"code":312,"indent":0,"parameters":[0,0,0,0,20]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 8 ("Escorpião*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 9 ("Água-Viva*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 10 ("Planta*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 11 ("Mysterion (uma vez)")
+  Page 1
+      {"code":121,"indent":0,"parameters":[7,7,0]}
+      {"code":121,"indent":0,"parameters":[8,8,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Page 2
+      {"code":0,"indent":0,"parameters":[]}
+Troop 12 (".....?")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 13 ("Orc*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 14 ("Diabinho*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 15 ("Gayzer*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 16 ("Marionete*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 17 ("Zumbi*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 18 ("Basilisco*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 19 ("Quimera")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 20 ("Mímico")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 21 ("Lobisomem*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 22 ("Sahagin*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 23 ("Cartman,O Obeso")
+  Page 1
+      {"code":121,"indent":0,"parameters":[9,9,0]}
+      {"code":121,"indent":0,"parameters":[10,10,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Page 2
+      {"code":0,"indent":0,"parameters":[]}
+Troop 24 ("Gárgula*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 25 ("Lâmia")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 26 ("Vampiro")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 27 ("Súcubo")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 28 ("Demônio")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 29 ("Lorde Negro")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 30 ("Deus Maligno")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 1 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 2 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 3 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 4 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 5 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 6 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 7 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 8 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 9 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 10 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map001.rvdata2 (Cidade Natal de Kleber)
+  Event 1 ("Conversar com Leonard" @ 9,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":0,"parameters":["Kleber,meu caro amigo.Estais pensando"]}
+      {"code":401,"indent":0,"parameters":["denovo sobre essa sua cidade natal?"]}
+      {"code":401,"indent":0,"parameters":["Esqueça isso e "]}
+      {"code":401,"indent":0,"parameters":["vamos ir atrás da espada lendária Bungas!"]}
+      {"code":102,"indent":0,"parameters":[["Vamos meu grande amigo!", "Ok...me de só um instante"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Vamos meu grande amigo!"]}
+      {"code":129,"indent":1,"parameters":[2,0,0]}
+      {"code":201,"indent":1,"parameters":[0,2,2,1,0,0]}
+      {"code":101,"indent":1,"parameters":["",0,0,1]}
+      {"code":401,"indent":1,"parameters":["O jogo pode ser salvo apenas em alguns momentos!"]}
+      {"code":401,"indent":1,"parameters":["Valorize quando você tem essa oportunidade! "]}
+      {"code":352,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Ok...me de só um instante"]}
+      {"code":115,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":115,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("O último comerciante" @ 8,2)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["People2",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Olá jovem,sou o ultimo comerciante"]}
+      {"code":401,"indent":0,"parameters":["da região."]}
+      {"code":401,"indent":0,"parameters":["Se quiser algo,compre comigo!"]}
+      {"code":302,"indent":0,"parameters":[1,19,1,3,false]}
+      {"code":605,"indent":0,"parameters":[2,3,1,4]}
+      {"code":249,"indent":0,"parameters":[{"name":"Item","pan":0,"pitch":100,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("AddMoedasInicial" @ 13,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[0,2,1]}
+      {"code":125,"indent":1,"parameters":[0,0,10]}
+      {"code":101,"indent":1,"parameters":["",0,2,1]}
+      {"code":401,"indent":1,"parameters":["Uau! Você encontrou 10 moedas!"]}
+      {"code":121,"indent":1,"parameters":[2,2,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["",0,2,1]}
+      {"code":401,"indent":1,"parameters":["Não há mais nada aqui!"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EventoInicial" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map002.rvdata2 (A floresta almaldiçoada)
+  Event 1 ("VoltarAondeTudoComecou" @ 1,1)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,1,7,6,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("Evento Cartman" @ 13,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":0,"parameters":["Meu deus Kleber,apareceu um ogro...."]}
+      {"code":401,"indent":0,"parameters":["Espere,é o orc obeso,cartman!"]}
+      {"code":301,"indent":0,"parameters":[0,23,false,false]}
+      {"code":101,"indent":0,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":0,"parameters":["Derrotamos esse gordo!"]}
+      {"code":401,"indent":0,"parameters":["Parecia sua mãe kkkkk"]}
+      {"code":101,"indent":0,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":0,"parameters":["Cala a boca Kleber"]}
+      {"code":214,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("Evento Mercadora" @ 15,4)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["People3",2,0,2]}
+      {"code":401,"indent":0,"parameters":["Olá aventureiro,sou a única mercadora"]}
+      {"code":401,"indent":0,"parameters":["corajosa que vende itens por aqui."]}
+      {"code":401,"indent":0,"parameters":["Cuidado um monstro a frente bloqueia"]}
+      {"code":401,"indent":0,"parameters":["o caminho.Sujiro se equipar melhor"]}
+      {"code":101,"indent":0,"parameters":["People3",2,0,2]}
+      {"code":401,"indent":0,"parameters":["Oque você deseja?"]}
+      {"code":102,"indent":0,"parameters":[["Quero comprar uma espada melhor", "Uma armadura porfavor", "Alguma poção", "Algum acessório"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Quero comprar uma espada melhor"]}
+      {"code":302,"indent":1,"parameters":[1,43,0,0,false]}
+      {"code":605,"indent":1,"parameters":[1,31,0,0]}
+      {"code":605,"indent":1,"parameters":[1,37,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Uma armadura porfavor"]}
+      {"code":302,"indent":1,"parameters":[2,52,0,0,false]}
+      {"code":605,"indent":1,"parameters":[2,41,0,0]}
+      {"code":605,"indent":1,"parameters":[2,2,0,0]}
+      {"code":605,"indent":1,"parameters":[2,4,0,0]}
+      {"code":605,"indent":1,"parameters":[2,6,0,0]}
+      {"code":605,"indent":1,"parameters":[2,11,0,0]}
+      {"code":605,"indent":1,"parameters":[2,26,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[2,"Alguma poção"]}
+      {"code":302,"indent":1,"parameters":[0,1,0,0,false]}
+      {"code":605,"indent":1,"parameters":[0,4,0,0]}
+      {"code":605,"indent":1,"parameters":[0,5,0,0]}
+      {"code":605,"indent":1,"parameters":[0,6,0,0]}
+      {"code":605,"indent":1,"parameters":[0,7,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[3,"Algum acessório"]}
+      {"code":101,"indent":1,"parameters":["People3",2,0,2]}
+      {"code":401,"indent":1,"parameters":["Desculpe,não tenho esse tipo de"]}
+      {"code":401,"indent":1,"parameters":["equipamento."]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["People3",2,0,2]}
+      {"code":401,"indent":0,"parameters":["Obrigado pela preferência!"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("Evento Homem Misterioso" @ 4,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Você está destinado a morrer."]}
+      {"code":401,"indent":0,"parameters":["Sua vingança trará sofrimento."]}
+      {"code":401,"indent":0,"parameters":["Quer lutar ou repensar sobre isso?..."]}
+      {"code":102,"indent":0,"parameters":[["Ok...melhor repensar um pouco...", "Não,vem pro pau seu lunático!!", "Vai se foder,Morra de uma vez!!", "Melhor eu me preparar para isso antes"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Ok...melhor repensar um pouco..."]}
+      {"code":115,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Não,vem pro pau seu lunático!!"]}
+      {"code":301,"indent":1,"parameters":[0,11,false,false]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[2,"Vai se foder,Morra de uma vez!!"]}
+      {"code":101,"indent":1,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Você não pode simplismente "]}
+      {"code":401,"indent":1,"parameters":["me ofender sem motivo."]}
+      {"code":401,"indent":1,"parameters":["Morra por ser idiota!"]}
+      {"code":353,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[3,"Melhor eu me preparar para isso antes"]}
+      {"code":115,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Pelo visto ainda se importa"]}
+      {"code":401,"indent":0,"parameters":["com sua vida..."]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 6,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":352,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 15,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":352,"indent":0,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,0,6,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map003.rvdata2 (A caverna das profecias)
+  Event 1 ("EV001" @ 13,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":0,"parameters":["Finalmente...a lendária espada"]}
+      {"code":401,"indent":0,"parameters":["bungas!"]}
+      {"code":101,"indent":0,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":0,"parameters":["Finalmente meu amigo!"]}
+      {"code":401,"indent":0,"parameters":["Vamos matar aquele rato"]}
+      {"code":401,"indent":0,"parameters":["maldito!!"]}
+      {"code":101,"indent":0,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":0,"parameters":["Será que estou preparado....?"]}
+      {"code":129,"indent":0,"parameters":[2,1,0]}
+      {"code":102,"indent":0,"parameters":[["Sim,está na hora!", "Não...melhor pensar um pouco", "Não que se foda,melhor ir pra casa"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Sim,está na hora!"]}
+      {"code":221,"indent":1,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":1,"parameters":["Minha visão está ficando"]}
+      {"code":401,"indent":1,"parameters":["estranha..."]}
+      {"code":401,"indent":1,"parameters":["ESPERA QUEM É VOCÊ?!?!"]}
+      {"code":101,"indent":1,"parameters":["Monster1",1,0,2]}
+      {"code":401,"indent":1,"parameters":["MORRA SEU VERME!"]}
+      {"code":127,"indent":1,"parameters":[24,0,0,1,false]}
+      {"code":301,"indent":1,"parameters":[0,12,false,false]}
+      {"code":222,"indent":1,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,3,9,6,4,2]}
+      {"code":121,"indent":1,"parameters":[14,14,0]}
+      {"code":101,"indent":1,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":1,"parameters":["Porque...você me matou..."]}
+      {"code":401,"indent":1,"parameters":["kleber?...."]}
+      {"code":401,"indent":1,"parameters":["Acho que a espada lhe"]}
+      {"code":401,"indent":1,"parameters":["controlou...."]}
+      {"code":101,"indent":1,"parameters":["People1",6,0,2]}
+      {"code":401,"indent":1,"parameters":["É melhor você desistir disso"]}
+      {"code":401,"indent":1,"parameters":["meu amigo....Boa sorte..."]}
+      {"code":401,"indent":1,"parameters":["Na sua...jornad-...."]}
+      {"code":225,"indent":1,"parameters":[5,5,100,false]}
+      {"code":101,"indent":1,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":1,"parameters":["LEONARD!!!! NÃOOOOOO!!!!!!"]}
+      {"code":213,"indent":1,"parameters":[-1,4,false]}
+      {"code":241,"indent":1,"parameters":[{"name":"Dungeon2","pan":0,"pitch":100,"volume":100}]}
+      {"code":203,"indent":1,"parameters":[2,0,7,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,6,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,5,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,4,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,3,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,2,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,1,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":203,"indent":1,"parameters":[2,0,0,6,4]}
+      {"code":230,"indent":1,"parameters":[60]}
+      {"code":121,"indent":1,"parameters":[14,14,1]}
+      {"code":242,"indent":1,"parameters":[5]}
+      {"code":101,"indent":1,"parameters":["Actor1",7,0,2]}
+      {"code":401,"indent":1,"parameters":["Será...que mereço...."]}
+      {"code":401,"indent":1,"parameters":["continuar depois "]}
+      {"code":401,"indent":1,"parameters":["disso...?"]}
+      {"code":102,"indent":1,"parameters":[["VOU CONTINUAR POR LEONARD!!!!", "Não...,eu não quero mais viver....", "melhor..só chorar..."],1,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"VOU CONTINUAR POR LEONARD!!!!"]}
+      {"code":352,"indent":2,"parameters":[]}
+      {"code":221,"indent":2,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,1,1]}
+      {"code":401,"indent":2,"parameters":["Após chorar muito pela despedida de seu amigo,"]}
+      {"code":401,"indent":2,"parameters":["Kleber continua sua jornada a partir de Asgard..."]}
+      {"code":201,"indent":2,"parameters":[0,4,1,3,0,2]}
+      {"code":222,"indent":2,"parameters":[]}
+      {"code":214,"indent":2,"parameters":[]}
+      {"code":115,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[1,"Não...,eu não quero mais viver...."]}
+      {"code":101,"indent":2,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Não acredito que você"]}
+      {"code":401,"indent":2,"parameters":["preferiu se matar do que"]}
+      {"code":401,"indent":2,"parameters":["vingar seu amigo..."]}
+      {"code":401,"indent":2,"parameters":["Você é muito ESCROTO!!"]}
+      {"code":353,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[2,"melhor..só chorar..."]}
+      {"code":101,"indent":2,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Que merda....você não consegue"]}
+      {"code":401,"indent":2,"parameters":["nem continuar depois de uma "]}
+      {"code":401,"indent":2,"parameters":["perda."]}
+      {"code":401,"indent":2,"parameters":["Você é mesmo um inútil!"]}
+      {"code":354,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Não...melhor pensar um pouco"]}
+      {"code":115,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[2,"Não que se foda,melhor ir pra casa"]}
+      {"code":101,"indent":1,"parameters":["Monster1",0,0,2]}
+      {"code":401,"indent":1,"parameters":["É essa a sua decisão depois de tudo?..."]}
+      {"code":401,"indent":1,"parameters":["Que merda em,fazer tudo isso para"]}
+      {"code":401,"indent":1,"parameters":["no final voltar para casa?!"]}
+      {"code":401,"indent":1,"parameters":["Você é um bosta mesmo...."]}
+      {"code":353,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EvLeo" @ 8,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 0,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,4,0,0,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map004.rvdata2 (Asgard)
+  Event 1 ("EvAsgardLoop" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":236,"indent":0,"parameters":["snow",9,0,false]}
+      {"code":241,"indent":0,"parameters":[{"name":"Town5","pan":0,"pitch":100,"volume":50}]}
+      {"code":0,"indent":0,"parameters":[]}
